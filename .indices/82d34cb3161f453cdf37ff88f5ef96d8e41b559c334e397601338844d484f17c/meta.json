@@ -1,0 +1,11 @@
+{
+  "pdf_path": "D:\\Langsmith\\langsmith-masterclass\\islr.pdf",
+  "pdf_fingerprint": {
+    "sha256": "dd6997f961a132293e79cdf1b4969be666dcd4a1660fc5716691b46e29e118f9",
+    "size": 11237547,
+    "mtime": 1771062007
+  },
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}
